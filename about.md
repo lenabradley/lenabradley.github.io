@@ -7,6 +7,8 @@ permalink: /about/
 Lena Bartell
 ============
 
+Data Scientist at [MORSE Corp](https://www.morsecorp.com/)
+
 # Skills
 ## Techniques
 Computer vision (filtering, morphological image processing, registration, segmentation) | Microscopy | 
