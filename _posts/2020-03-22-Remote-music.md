@@ -13,7 +13,8 @@ Resources and links for enjoying and supporting music remotely during COVID-19 p
 * [WKAR List of Live Streaming Concerts](https://www.wkar.org/post/list-live-streaming-concerts#stream/0)
 * [Chamber Music Society of Lincoln Center, NYC](https://www.chambermusicsociety.org/watch-and-listen/)
 * [Philadelphia Orchestra Listen on Demand](https://www.philorch.org/your-philorch/learn-more/ondemand/)
-* ‪[#‎TogetherAtHome‬](https://twitter.com/hashtag/TogetherAtHome)
+* ‪#‎TogetherAtHome‬: [twitter](https://twitter.com/hashtag/TogetherAtHome); 
+[facebook](https://www.facebook.com/hashtag/togetherathome); [instagram](https://www.instagram.com/explore/tags/TogetherAtHome/)
 
 ## Specific events
 * [2020-03-22, 6:30 PM ET, Will Dailey](https://www.facebook.com/events/199864347966274/)
