@@ -8,6 +8,7 @@ Resources and links for enjoying and supporting music remotely during COVID-19 p
 # Streaming concerts and events
 
 ## General resources
+* [Boston Symphony Orchestra](https://www.bso.org/brands/bso/at-home.aspx)
 * [Berlin philharmonic digital concert hall](https://www.digitalconcerthall.com/en/home)
 * [Alex Ross: The Rest Is Noise. COVID-19 live streams](https://www.therestisnoise.com/2020/03/covid-19-live-streams.html)
 * [WKAR List of Live Streaming Concerts](https://www.wkar.org/post/list-live-streaming-concerts#stream/0)
