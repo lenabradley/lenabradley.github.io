@@ -16,6 +16,8 @@ Resources and links for enjoying and supporting music remotely during COVID-19 p
 * [Philadelphia Orchestra Listen on Demand](https://www.philorch.org/your-philorch/learn-more/ondemand/)
 * ‪#‎TogetherAtHome‬: [twitter](https://twitter.com/hashtag/TogetherAtHome); 
 [facebook](https://www.facebook.com/hashtag/togetherathome); [instagram](https://www.instagram.com/explore/tags/TogetherAtHome/)
+* [StageIt online concert venue](https://www.stageit.com/)
 
 ## Specific events
 * [2020-03-22, 6:30 PM ET, Will Dailey](https://www.facebook.com/events/199864347966274/)
+* [2020-03-24, 8:00 PM ET, Josh Ritter, Silo Sessions](https://found.ee/JoshRitter-SiloSessions)
