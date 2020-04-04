@@ -33,3 +33,4 @@ Resources and links for enjoying and supporting music remotely during COVID-19 p
 * [2020-03-26 thorugh 2002-03-27 Bandsintown LIVE Music Marathon](https://news.bandsintown.com/article/2020-03-21-dont-miss-the-bandsintown-live-music-marathon-next-week/)
 * [2020-03-26, 8 PM, Dr. Zachariah Hickman's Parlor of Playfulness](https://www.youtube.com/watch?v=PsfYxUo46AQ)
 * [2020-03-31, 8 PM ET, Ryley Walker](https://www.youtube.com/watch?v=YpOLE6bvBC4)
+* [Every Friday, 8 PM ET, Ryan Montbleau](https://www.facebook.com/pg/Montbleau/videos/)
