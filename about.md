@@ -18,11 +18,11 @@ Data Scientist and Task Lead at [MORSE Corp](https://www.morsecorp.com/)
 * B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
 
 # Skills
-**Languages**: Python | MATLAB | SQL | LaTeX | HTML/CSS
+**Languages**: Python, MATLAB, SQL, LaTeX, HTML/CSS
 
-**Tools**: Git | Docker and docker-compose | Jenkins | Jupyter | Dash | ffmpeg | QGIS | Inkscape (vector graphics) | Tableau | AutoDesk Inventor (3D CAD)
+**Tools**: Git, Docker and docker-compose, Jenkins, Jupyter, Dash, ffmpeg, QGIS, Inkscape (vector graphics), Tableau, AutoDesk Inventor (3D CAD)
 
-**Organizational**: Agile development | Task leadership | Stakeholder management | Business development
+**Organizational**: Agile development, Task leadership, Stakeholder management, Business development
 
 **Python**: 
 * Package creation and environment management (pip, setuptools, poetry, virtualenv, pyenv, pyinstaller, cookiecutter)
