@@ -10,12 +10,14 @@ Data Scientist and Task Lead at [MORSE Corp](https://www.morsecorp.com/)
 
 # Education
 #### Cornell University
-* _Ithaca, NY (2011 – 2018)_
-* Ph.D. in Applied Physics, Minor in Biomedical Engineering
+_Ithaca, NY (2011 – 2018)_
+
+Ph.D. in Applied Physics, Minor in Biomedical Engineering
 
 #### Penn State University
-* _State College, PA (2007 - 2011)_
-* B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
+_State College, PA (2007 - 2011)_
+
+B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
 
 # Skills
 **Languages**: Python, MATLAB, SQL, LaTeX, HTML/CSS
