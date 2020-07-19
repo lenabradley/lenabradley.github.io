@@ -27,13 +27,13 @@ B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
 **Organizational**: Agile development, Task leadership, Stakeholder management, Business development
 
 **Python**: 
-* Package creation and environment management (pip, setuptools, poetry, virtualenv, pyenv, pyinstaller, cookiecutter)
+* Package creation and environment management (pip, setuptools, poetry, virtualenv, pyenv, cookiecutter)
 * Software tooling (loguru, pyyaml, confuse, dataclasses, nltk, pdoc3)
-* Testing frameworks and code standards (pytest, black, unittest, snapshottest, mypy, faker)
-* Data management (Pandas, sqlalchemy, sqlite, Scrapy, Kedro)
+* Testing frameworks and code standards (pytest, black, unittest, snapshottest, mypy)
+* Data management (Pandas, sqlalchemy, Scrapy, Kedro)
 * Data analysis (NumPy, SciPy, scikit-learn, StatsModels, opencv, Pillow)
 * Data visualization (Seaborn, Plotly, Matplotlib)
-* Geospatial and scientific computing (pymap3d, pint, GeoPandas, Shapely, geomag)
+* Geospatial and scientific computing (pymap3d, pint, Shapely, geomag)
 
 
 # Experience
@@ -95,7 +95,7 @@ _Undergraduate Researcher, University of Pennsylvania, Philadelphia, PA (2009 - 
 * Simulated measurement biases of existing dosimeters from first-principles using MATLAB 
 
 # Select Publications
-* (2020) __L.R. Bartell_ et al. Mitoprotective therapy prevents rapid, strain‐dependent mitochondrial dysfunction after articular cartilage injury. Journal of Orthopaedic Research 38(6), 1257-1267. 
+* (2020) __L.R. Bartell__ et al. Mitoprotective therapy prevents rapid, strain‐dependent mitochondrial dysfunction after articular cartilage injury. Journal of Orthopaedic Research 38(6), 1257-1267. 
 * (2018) __L.R. Bartell__ et al. Local and global measurements show that damage initiation in articular cartilage is inhibited by the surface layer and has significant rate dependence. Journal of Biomechanics 72, 63-70.
 * (2017) J.M. Middendorf, et al. In vitro culture increases mechanical stability of human tissue engineered cartilage constructs by prevention of microscale scaffold buckling. Journal of Biomechanics 64, 77-84
 * (2017) __L.R. Bartell__, et al. Three-dimensional microscale flow of polymer coatings on glass during indentation. MRS Communications 7, 896-903
