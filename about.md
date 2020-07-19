@@ -6,39 +6,57 @@ permalink: /about/
 
 Lena Bartell
 ============
-
-Data Scientist at [MORSE Corp](https://www.morsecorp.com/)
-
-# Skills
-## Techniques
-Computer vision (filtering, morphological image processing, registration, segmentation) | Microscopy | 
-Machine learning (exploratory analytics, regularization, normalization, regression, classification, cross-validation) | 
-Regression (linear, logistic, mixed-effects, random forest) | Data visualization (figure design, dashboards)
-
-## Languages, etc.
-Python (Pandas, NumPy, SciPy, scikit-learn, StatsModels, Matplotlib, Scrapy) | Git | MATLAB | SQL |
-Flask/Dash | HTML/CSS | Inkscape (vector graphics) | Autodesk Inventor (3D CAD) | LaTeX | Tableau
+Data Scientist and Task Lead at [MORSE Corp](https://www.morsecorp.com/)
 
 # Education
-## Doctorate
-(2011 – 2018)
-Cornell University (Ithaca, NY) 
-Ph.D. in Applied Physics, Minor in Biomedical Engineering
+#### Cornell University
+* _Ithaca, NY (2011 – 2018)_
+* Ph.D. in Applied Physics, Minor in Biomedical Engineering
 
-## Undergraduate
-(2007 - 2011)
-Penn State University (State College, PA) – 
-B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
+#### Penn State University
+* _State College, PA (2007 - 2011)_
+* B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
 
-# Projects
-## Let’s Get Clinical: Predicting clinical trial drop-out rates (Insight project)
-_Fellow, Insight Data Science, Boston, MA_ 
-_(2018)_
+# Skills
+**Languages**: Python | MATLAB | SQL | LaTeX | HTML/CSS
+
+**Tools**: Git | Docker and docker-compose | Jenkins | Jupyter | Dash | ffmpeg | QGIS | Inkscape (vector graphics) | Tableau | AutoDesk Inventor (3D CAD)
+
+**Organizational**: Agile development | Task leadership | Stakeholder management | Business development
+
+**Python**: 
+* Package creation and environment management (pip, setuptools, poetry, virtualenv, pyenv, pyinstaller, cookiecutter)
+* Software tooling (loguru, pyyaml, confuse, dataclasses, nltk, pdoc3)
+* Testing frameworks and code standards (pytest, black, unittest, snapshottest, mypy, faker)
+* Data management (Pandas, sqlalchemy, sqlite, Scrapy, Kedro)
+* Data analysis (NumPy, SciPy, scikit-learn, StatsModels, opencv, Pillow)
+* Data visualization (Seaborn, Plotly, Matplotlib)
+* Geospatial and scientific computing (pymap3d, pint, GeoPandas, Shapely, geomag)
+
+
+# Experience
+#### MORSE Corp, Data Scientist and Task Lead
+_Cambridge, MA (2018 - Present)_
+* Led team of 9 data scientists and software engineers developing a suite of AI algorithms
+* Developed and delivered sales pitch resulting in over $10M prime contract for AI services
+* Guided company-wide best practices for python development
+* Built algorithms for physical modeling, optimization, and geospatial anomaly detection
+* Analyzed experimental data to evaluate algorithm performance and optimize parameters
+* Interfaced with customers and users to collect feedback, manage expectations, present results, and deliver products
+* Led team of 3 software engineers to create a web application utilizing a python backend and JavaScript React frontend
+* Developed and maintained a suite of internal python packages used across multiple program for physical modeling of airdrop systems
+* Developed data model with associated API and SQLite database for cross-program data
+* Planned and supervised data collection for airdrop test weeks
+
+#### Insight Data Science Fellow
+_Boston, MA (2018)_
+Project: Let’s Get Clinical: Predicting clinical trial drop-out rates
 * Extracted and cleaned data (continuous, categorial, text) from 40-table relational database using Python (pandas) and PostgreSQL
 * Modeled trial dropout rates using linear regression and random forests in Python (StatsModels, scikit-learn)
 * Deployed online app via Dash/Heroku to predict the number of patients that will drop out of a clinical trial (https://letsgetclinical.herokuapp.com/)
 
-## Injury-induced cellular dysfunction in articular cartilage</span> (PhD thesis)
+# Projects
+#### Injury-induced cellular dysfunction in articular cartilage (PhD thesis)
 _PhD Candidate, Cornell University, Ithaca, NY_
 _(2012 - 2018)_
 * Built custom mechanical testing stage that interfaced with optical microscopy to measure soft tissue properties
@@ -47,7 +65,7 @@ _(2012 - 2018)_
 * Presented research quarterly in small-group meeting and at 7 scientific conferences
 * Mentored 5 researchers and cultivated collaborations with veterinary surgeons and biomedical engineers
 
-## GUI for automated segmentation and classification of microscopy images (PhD thesis)
+#### GUI for automated segmentation and classification of microscopy images (PhD thesis)
 _PhD Candidate, Cornell University, Ithaca, NY_
 _(2017)_
 * Developed custom image segmentation and classification algorithm based on the watershed transform
@@ -55,24 +73,22 @@ _(2017)_
 (GUI and tutorial: https://github.com/itaicohengroup/watershed_cells_gui)
 * Published training tutorial and distributed GUI to collaborators using GitHub
 
-## 4D flow behavior of protective glass coatings (PhD thesis)
-_PhD Candidate, Cornell University, Ithaca, NY, in collaboration with Corning Inc., Corning, NY_
-_(2015 - 2017)_
+#### 4D flow behavior of protective glass coatings (PhD thesis)
+_PhD Candidate, Cornell University, Ithaca, NY, in collaboration with Corning Inc., Corning, NY (2015 - 2017)_
 * Implemented N-dimensional Barnes smoothing interpolation in MATLAB, extending previously 2D algorithm
 * Compiled and analyzed large, multi-dimensional confocal microscopy data sets using MATLAB and Python
 * Coordinated collaboration with Corning Inc., including quarterly presentations and final reports    	
 
-## WXPN radio “A to Z” marathon playlist analysis (Personal project)
-(2016)
+#### WXPN radio “A to Z” marathon playlist analysis (Personal project)
+_(2016)_
 * Scraped playlist metadata from web and linked to additional open database APIs using Python (Scrapy)
 * Cleaned data and calculated summary statistics using Python (pandas, NumPy)
 * Created and shared interactive visualization using Tableau and Twitter 
 (viz: <a href="http://public.tableau.com/views/XPN_AtoZ/XPNA-Z?%3AshowVizHome=no&:display_count=yes">public.tableau.com/views/XPN_AtoZ/XPNA-Z</a>, 
 news coverage: <a href="http://thekey.xpn.org/2016/12/16/lena-bartell/">thekey.xpn.org/2016/12/16/lena-bartell/</a>)
 
-## X-ray dosimeters for diagnostic breast cancer imaging (Undergraduate thesis)
-_Undergraduate Researcher, University of Pennsylvania, Philadelphia, PA    _
-_(2009 - 2011)_
+#### X-ray dosimeters for diagnostic breast cancer imaging (Undergraduate thesis)
+_Undergraduate Researcher, University of Pennsylvania, Philadelphia, PA (2009 - 2011)_
 * Designed, constructed, and studied the response of a custom X-ray dosimeter
 * Simulated measurement biases of existing dosimeters from first-principles using MATLAB 
 
