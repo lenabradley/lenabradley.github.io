@@ -22,9 +22,9 @@ B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
 # Skills
 **Languages**: Python, MATLAB, SQL, LaTeX, HTML/CSS
 
-**Tools**: Git, Docker and docker-compose, Jenkins, Jupyter, Dash, ffmpeg, QGIS, Inkscape (vector graphics), Tableau, AutoDesk Inventor (3D CAD)
+**Tools**: Git, Docker and Docker Compose, Jenkins, Jupyter, Dash, ffmpeg, QGIS, Inkscape (vector graphics), Tableau, AutoDesk Inventor (3D CAD)
 
-**Organizational**: Agile development, Task leadership, Stakeholder management, Business development
+**Organizational**: Agile Development, Task Leadership, Stakeholder Management, Business Development
 
 **Python**: 
 * Package creation and environment management (pip, setuptools, poetry, virtualenv, pyenv, cookiecutter)
@@ -39,18 +39,18 @@ B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
 # Experience
 #### [MORSE Corp](https://www.morsecorp.com/), Data Scientist and Task Lead
 _Cambridge, MA (2018 - Present)_
-* Led team of 9 data scientists and software engineers developing a suite of unsupervised anomaly detection algorithms
+* Led team of nine data scientists and software engineers developing a suite of unsupervised anomaly detection algorithms
 * Developed and delivered sales pitch resulting in over $10M prime contract for AI services
-* Guided company-wide best practices for python development
+* Guided company-wide best practices for Python development
 * Built algorithms for physical modeling, optimization, and geospatial anomaly detection
 * Analyzed experimental data to evaluate algorithm performance and optimize parameters
 * Interfaced with customers and users to collect feedback, manage expectations, present results, and deliver products
-* Led team of 3 software engineers to create a web application utilizing a python backend and JavaScript React frontend
-* Developed and maintained a suite of internal python packages for physical modeling of airdrop systems used across multiple programs 
+* Led team of three software engineers to create a web application utilizing a Python backend and JavaScript React frontend
+* Developed and maintained a suite of internal Python packages for physical modeling of airdrop systems used across multiple programs 
 * Developed data model with associated API and SQLite database for cross-program data
-* Planned and supervised data collection for airdrop test weeks
+* Planned and supervised data collection for parachute
 
-#### Insight Data Science Fellow
+#### [Insight Data Science](https://insightfellows.com/), Fellow
 _Boston, MA (2018)_
 Project: Let’s Get Clinical: Predicting clinical trial drop-out rates
 * Extracted and cleaned data (continuous, categorial, text) from 40-table relational database using Python (pandas) and PostgreSQL
@@ -62,10 +62,10 @@ Project: Let’s Get Clinical: Predicting clinical trial drop-out rates
 _PhD Candidate, Cornell University, Ithaca, NY_
 _(2012 - 2018)_
 * Built custom mechanical testing stage that interfaced with optical microscopy to measure soft tissue properties
-* Analyzed multi-dimensional imaging data sets (~20x1 GB) to segment, track, and classify cell behavior over space and time using MATLAB and Python
+* Analyzed multi-dimensional imaging data sets (~20 GB) to segment, track, and classify cell behavior over space and time using MATLAB and Python
 * Quantified relationship between cell dysfunction and treatment using mixed-effects regression (linear, logistic)
-* Presented research quarterly in small-group meeting and at 7 scientific conferences
-* Mentored 5 researchers and cultivated collaborations with veterinary surgeons and biomedical engineers
+* Presented research quarterly in small-group meeting and at seven scientific conferences
+* Mentored five researchers and cultivated collaborations with veterinary surgeons and biomedical engineers
 
 #### GUI for automated segmentation and classification of microscopy images (PhD thesis)
 _PhD Candidate, Cornell University, Ithaca, NY_
@@ -79,7 +79,7 @@ _(2017)_
 _PhD Candidate, Cornell University, Ithaca, NY, in collaboration with Corning Inc., Corning, NY (2015 - 2017)_
 * Implemented N-dimensional Barnes smoothing interpolation in MATLAB, extending previously 2D algorithm
 * Compiled and analyzed large, multi-dimensional confocal microscopy data sets using MATLAB and Python
-* Coordinated collaboration with Corning Inc., including quarterly presentations and final reports    	
+* Collaborating with Corning Inc., coordinating quarterly presentations and final reports    	
 
 #### WXPN radio “A to Z” marathon playlist analysis (Personal project)
 _(2016)_
@@ -110,7 +110,7 @@ _Undergraduate Researcher, University of Pennsylvania, Philadelphia, PA (2009 - 
 # Awards & Fellowships
 * (2016 - 2018) NIH Individual F31 Predoctoral Fellowship Grant
 * (2012 - 2015) NSF Graduate Research Fellowship
-* (2011 - 2012) Cornell Presidential Life Science Fellowship (1 year graduate training & stipend)
+* (2011 - 2012) Cornell Presidential Life Science Fellowship (one year graduate training & stipend)
 * (2011) Penn State Schreyer Honors College Evans Award for Research Achievement
 * (2009) Goldwater Scholarship
 * (2009) American Association of Physicists in Medicine Undergraduate Fellowship
