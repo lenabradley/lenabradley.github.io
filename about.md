@@ -39,14 +39,14 @@ B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
 # Experience
 #### [MORSE Corp](https://www.morsecorp.com/), Data Scientist and Task Lead
 _Cambridge, MA (2018 - Present)_
-* Led team of 9 data scientists and software engineers developing a suite of AI algorithms
+* Led team of 9 data scientists and software engineers developing a suite of unsupervised anomaly detection algorithms
 * Developed and delivered sales pitch resulting in over $10M prime contract for AI services
 * Guided company-wide best practices for python development
 * Built algorithms for physical modeling, optimization, and geospatial anomaly detection
 * Analyzed experimental data to evaluate algorithm performance and optimize parameters
 * Interfaced with customers and users to collect feedback, manage expectations, present results, and deliver products
-* Led team of 3 software engineers to create a web application utilizing a python backend and JavaScript React frontend
-* Developed and maintained a suite of internal python packages used across multiple program for physical modeling of airdrop systems
+* Led team of 3 software engineers to create a web application utilizing a python-based algorithm backend and JavaScript React frontend
+* Developed and maintained a suite of internal python packages for physical modeling of airdrop systems used across multiple programs 
 * Developed data model with associated API and SQLite database for cross-program data
 * Planned and supervised data collection for airdrop test weeks
 
@@ -94,14 +94,15 @@ _Undergraduate Researcher, University of Pennsylvania, Philadelphia, PA (2009 - 
 * Designed, constructed, and studied the response of a custom X-ray dosimeter
 * Simulated measurement biases of existing dosimeters from first-principles using MATLAB 
 
-# Publications
+# Select Publications
+* (2020) __L.R. Bartell_ et al. Mitoprotective therapy prevents rapid, strain‐dependent mitochondrial dysfunction after articular cartilage injury. Journal of Orthopaedic Research 38(6), 1257-1267. 
+* (2018) __L.R. Bartell__ et al. Local and global measurements show that damage initiation in articular cartilage is inhibited by the surface layer and has significant rate dependence. Journal of Biomechanics 72, 63-70.
 * (2017) J.M. Middendorf, et al. In vitro culture increases mechanical stability of human tissue engineered cartilage constructs by prevention of microscale scaffold buckling. Journal of Biomechanics 64, 77-84
 * (2017) __L.R. Bartell__, et al. Three-dimensional microscale flow of polymer coatings on glass during indentation. MRS Communications 7, 896-903
 * (2017) __L.R. Bartell__, L.J. Bonassar, I. Cohen. A watershed-based algorithm to segment and classify cells in fluorescence microscopy images. ArXiv Computer Vision and Pattern Recognition arXiv:1706.00815
 * (2016) C.R. Henak, __L.R. Bartell__, L.J. Bonassar, I. Cohen. Multiscale Strain as a Predictor of Impact-Induced Fissuring in Articular Cartilage. Journal of Biomedical Engineering 139, 031004
 * (2015) __L.R. Bartell__, L.A. Fortier, L.J. Bonassar, I. Cohen. Measuring microscale strain fields in articular cartilage during rapid impact reveals thresholds for chondrocyte death and a protective role for the superficial layer. Journal of Biomechanics 48, 3440-3446
 * (2010) __L.R. Bartell__, A.K. Carton, A.D.A. Maidment. Angular dependence of mammographic dosimeters in digital breast tomosynthesis. Proc. of Medical Imaging 7622, 76225L
-* _3 other publications: 2 submitted, 1 in preparation_
 
 # Patent
 * (2017) “Buckling technique to determine tissue engineered construct readiness,” U.S. Provisional Application (pending).
