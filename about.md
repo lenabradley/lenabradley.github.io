@@ -37,7 +37,7 @@ B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
 
 
 # Experience
-#### MORSE Corp, Data Scientist and Task Lead
+#### [MORSE Corp](https://www.morsecorp.com/), Data Scientist and Task Lead
 _Cambridge, MA (2018 - Present)_
 * Led team of 9 data scientists and software engineers developing a suite of AI algorithms
 * Developed and delivered sales pitch resulting in over $10M prime contract for AI services
@@ -55,7 +55,7 @@ _Boston, MA (2018)_
 Project: Let’s Get Clinical: Predicting clinical trial drop-out rates
 * Extracted and cleaned data (continuous, categorial, text) from 40-table relational database using Python (pandas) and PostgreSQL
 * Modeled trial dropout rates using linear regression and random forests in Python (StatsModels, scikit-learn)
-* Deployed online app via Dash/Heroku to predict the number of patients that will drop out of a clinical trial (https://letsgetclinical.herokuapp.com/)
+* Deployed online app via Dash/Heroku to predict the number of patients that will drop out of a clinical trial ([letsgetclinical.herokuapp.com/](https://letsgetclinical.herokuapp.com/))
 
 # Projects
 #### Injury-induced cellular dysfunction in articular cartilage (PhD thesis)
@@ -72,7 +72,7 @@ _PhD Candidate, Cornell University, Ithaca, NY_
 _(2017)_
 * Developed custom image segmentation and classification algorithm based on the watershed transform
 * Deployed image algorithm as a portable GUI using MATLAB, enabling non-technical collaborators to utilize computer vision techniques 
-(GUI and tutorial: https://github.com/itaicohengroup/watershed_cells_gui)
+(GUI and tutorial: [github.com/itaicohengroup/watershed_cells_gui](https://github.com/itaicohengroup/watershed_cells_guif))
 * Published training tutorial and distributed GUI to collaborators using GitHub
 
 #### 4D flow behavior of protective glass coatings (PhD thesis)
@@ -86,8 +86,8 @@ _(2016)_
 * Scraped playlist metadata from web and linked to additional open database APIs using Python (Scrapy)
 * Cleaned data and calculated summary statistics using Python (pandas, NumPy)
 * Created and shared interactive visualization using Tableau and Twitter 
-(viz: <a href="http://public.tableau.com/views/XPN_AtoZ/XPNA-Z?%3AshowVizHome=no&:display_count=yes">public.tableau.com/views/XPN_AtoZ/XPNA-Z</a>, 
-news coverage: <a href="http://thekey.xpn.org/2016/12/16/lena-bartell/">thekey.xpn.org/2016/12/16/lena-bartell/</a>)
+    * Viz: [public.tableau.com/views/XPN_AtoZ/XPNA-Z](http://public.tableau.com/views/XPN_AtoZ/XPNA-Z?%3AshowVizHome=no&:display_count=yes)
+    * News coverage: [thekey.xpn.org/2016/12/16/lena-bartell/](http://thekey.xpn.org/2016/12/16/lena-bartell/)
 
 #### X-ray dosimeters for diagnostic breast cancer imaging (Undergraduate thesis)
 _Undergraduate Researcher, University of Pennsylvania, Philadelphia, PA (2009 - 2011)_
