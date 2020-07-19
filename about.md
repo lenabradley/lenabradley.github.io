@@ -45,7 +45,7 @@ _Cambridge, MA (2018 - Present)_
 * Built algorithms for physical modeling, optimization, and geospatial anomaly detection
 * Analyzed experimental data to evaluate algorithm performance and optimize parameters
 * Interfaced with customers and users to collect feedback, manage expectations, present results, and deliver products
-* Led team of 3 software engineers to create a web application utilizing a python-based algorithm backend and JavaScript React frontend
+* Led team of 3 software engineers to create a web application utilizing a python backend and JavaScript React frontend
 * Developed and maintained a suite of internal python packages for physical modeling of airdrop systems used across multiple programs 
 * Developed data model with associated API and SQLite database for cross-program data
 * Planned and supervised data collection for airdrop test weeks
