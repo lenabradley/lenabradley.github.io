@@ -39,7 +39,7 @@ B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
 # Experience
 #### [MORSE Corp](https://www.morsecorp.com/), Data Scientist and Task Lead
 _Cambridge, MA (2018 - Present)_
-* Led team of nine data scientists and software engineers developing a suite of unsupervised anomaly detection algorithms
+* Led team of 12 data scientists and software engineers developing a suite of unsupervised anomaly detection algorithms
 * Developed and delivered sales pitch resulting in over $10M prime contract for AI services
 * Guided company-wide best practices for Python development
 * Built algorithms for physical modeling, optimization, and geospatial anomaly detection
@@ -48,7 +48,8 @@ _Cambridge, MA (2018 - Present)_
 * Led team of three software engineers to create a web application utilizing a Python backend and JavaScript React frontend
 * Developed and maintained a suite of internal Python packages for physical modeling of airdrop systems used across multiple programs 
 * Developed data model with associated API and SQLite database for cross-program data
-* Planned and supervised data collection for parachute
+* Planned and supervised data collection for airdrop test campaigns, coordinating with customers and proving ground staff
+
 
 #### [Insight Data Science](https://insightfellows.com/), Fellow
 _Boston, MA (2018)_
