@@ -49,7 +49,7 @@ _Cambridge, MA (2018 - Present)_
 * Developed and maintained a suite of internal Python packages for physical modeling of airdrop systems used across multiple programs 
 * Developed data model with associated API and SQLite database for cross-program data
 * Planned and supervised data collection for airdrop test campaigns, coordinating with customers and proving ground staff
-
+* Conducted technical screens and in-person interviews for hiring data scientists and technical leads
 
 #### [Insight Data Science](https://insightfellows.com/), Fellow
 _Boston, MA (2018)_
