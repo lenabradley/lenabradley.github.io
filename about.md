@@ -6,7 +6,7 @@ permalink: /about/
 
 Lena Bartell
 ============
-Data Scientist and Task Lead at [MORSE Corp](https://www.morsecorp.com/)
+Lead Data Scientist at [MORSE Corp](https://www.morsecorp.com/)
 
 # Education
 #### Cornell University
@@ -22,7 +22,7 @@ B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
 # Skills
 **Languages**: Python, MATLAB, SQL, LaTeX, HTML/CSS
 
-**Tools**: Git, Docker and Docker Compose, Jenkins, Jupyter, Dash, ffmpeg, QGIS, Inkscape (vector graphics), Tableau, AutoDesk Inventor (3D CAD)
+**Tools**: Git, Docker and Docker Compose, AWS, Jenkins, Jupyter, Protobuf, Dash, ffmpeg, QGIS, Inkscape (vector graphics), Tableau, AutoDesk Inventor (3D CAD)
 
 **Organizational**: Agile Development, Task Leadership, Stakeholder Management, Business Development
 
@@ -37,9 +37,10 @@ B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
 
 
 # Experience
-#### [MORSE Corp](https://www.morsecorp.com/), Data Scientist and Task Lead
+#### [MORSE Corp](https://www.morsecorp.com/), Lead Data Scientist,
 _Cambridge, MA (2018 - Present)_
 * Led team of 12 data scientists and software engineers developing a suite of unsupervised anomaly detection algorithms
+* Deployed AI algorithms to remote sever environments, AWS cloud enivornments, and realtime, protbuf-interfaced pipelines
 * Developed and delivered sales pitch resulting in over $10M prime contract for AI services
 * Guided company-wide best practices for Python development
 * Built algorithms for physical modeling, optimization, and geospatial anomaly detection
@@ -47,9 +48,10 @@ _Cambridge, MA (2018 - Present)_
 * Interfaced with customers and users to collect feedback, manage expectations, present results, and deliver products
 * Led team of three software engineers to create a web application utilizing a Python backend and JavaScript React frontend
 * Developed and maintained a suite of internal Python packages for physical modeling of airdrop systems used across multiple programs 
-* Developed data model with associated API and SQLite database for cross-program data
+* Developed data model with associated OpenAPI and SQLite database for cross-program data
 * Planned and supervised data collection for airdrop test campaigns, coordinating with customers and proving ground staff
-* Conducted technical screens and in-person interviews for hiring data scientists and technical leads
+* Conducted technical screens and in-person interviews for hiring data scientists, engineers, and technical leads
+* Clearance: Secret (Interim Top Secret)
 
 #### [Insight Data Science](https://insightfellows.com/), Fellow
 _Boston, MA (2018)_
