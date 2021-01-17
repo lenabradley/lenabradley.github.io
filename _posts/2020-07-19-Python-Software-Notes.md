@@ -50,7 +50,7 @@ Notes, resources, and links for python and software in general
         * docker
     * Things I recommend NOT using
         * pipenv
- 
+
 # General Software
 * Clean Code by Robert Cecil Martin (easy to read, good place to start, intuitive)
 * A philosophy of Software Design by Josh Ousterhout
@@ -93,4 +93,4 @@ Notes, resources, and links for python and software in general
         * Backup: Provide a code sample that recreates the issue
     * https://google.github.io/eng-practices/review/reviewer/comments.html
     * Provide code samples
- 
+

@@ -43,6 +43,7 @@ _Cambridge, MA (2018 - Present)_
 * Deployed AI algorithms to remote sever environments, AWS cloud enivornments, and realtime, protbuf-interfaced pipelines
 * Developed and delivered sales pitch resulting in over $10M prime contract for AI services
 * Guided company-wide best practices for Python development
+* Contributed to company's first OSS: [Snappiershot](https://github.com/MORSECorp/snappiershot)
 * Built algorithms for physical modeling, optimization, and geospatial anomaly detection
 * Analyzed experimental data to evaluate algorithm performance and optimize parameters
 * Interfaced with customers and users to collect feedback, manage expectations, present results, and deliver products
