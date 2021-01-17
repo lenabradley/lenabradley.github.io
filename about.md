@@ -40,7 +40,7 @@ B.S. with Honors in Physics, Minors in Biomedical Engineering & Mathematics
 #### [MORSE Corp](https://www.morsecorp.com/), Lead Data Scientist,
 _Cambridge, MA (2018 - Present)_
 * Led team of 12 data scientists and software engineers developing a suite of unsupervised anomaly detection algorithms
-* Deployed AI algorithms to remote sever environments, AWS cloud enivornments, and realtime, protbuf-interfaced pipelines
+* Deployed AI algorithms to remote sever environments, AWS cloud environments, and realtime, protbuf-interfaced pipelines
 * Developed and delivered sales pitch resulting in over $10M prime contract for AI services
 * Guided company-wide best practices for Python development
 * Contributed to company's first OSS: [Snappiershot](https://github.com/MORSECorp/snappiershot)
@@ -57,7 +57,7 @@ _Cambridge, MA (2018 - Present)_
 #### [Insight Data Science](https://insightfellows.com/), Fellow
 _Boston, MA (2018)_
 Project: Let’s Get Clinical: Predicting clinical trial drop-out rates
-* Extracted and cleaned data (continuous, categorial, text) from 40-table relational database using Python (pandas) and PostgreSQL
+* Extracted and cleaned data (continuous, categorical, text) from 40-table relational database using Python (pandas) and PostgreSQL
 * Modeled trial dropout rates using linear regression and random forests in Python (StatsModels, scikit-learn)
 * Deployed online app via Dash/Heroku to predict the number of patients that will drop out of a clinical trial ([letsgetclinical.herokuapp.com/](https://letsgetclinical.herokuapp.com/))
 
