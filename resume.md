@@ -12,7 +12,7 @@ Lena Bartell
 Lead Data Scientist at [MORSE Corp](https://www.morsecorp.com/)
 
 
-<a href="lbartell.github.io/LenaBartell_Resume.pdf" target="_blank">PDF</a>
+<a href="{{ site.baseurl }}/LenaBartell_Resume.pdf" target="_blank">PDF</a>
 
 # Education
 #### Cornell University
