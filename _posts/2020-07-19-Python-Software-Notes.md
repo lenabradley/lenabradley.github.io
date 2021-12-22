@@ -30,10 +30,12 @@ Notes, resources, and links for python and software in general
         * dataclasses (3.7+, can use attrs package instead if in an earlier version of python)
         * f-strings (3.6+)
     * Packages I use often and love to use
+        * pydantic
         * pint
         * pathlib (in standardlib)
         * poetry
         * loguru
+        * snappiershot
     * Packages I use often but do not love
         * pymap3d
         * snapshottest (use this fork NOT the package on PyPI https://github.com/YAtOff/snapshottest)
