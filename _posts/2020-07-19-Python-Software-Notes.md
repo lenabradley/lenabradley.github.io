@@ -87,6 +87,8 @@ Notes, resources, and links for python and software in general
 * Testing
     * https://mtlynch.io/good-developers-bad-tests/
     * "When you write a test, think about the next developer who will see the test break."
+* APIs
+    * https://openapi.tools/
 * Code reviews
     * Prefer small PRs to Large PRs
     * When designing something big and/or new and/or if you are uncertain: Get eyes on your code early and often
